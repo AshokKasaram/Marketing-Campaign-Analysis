@@ -1,4 +1,4 @@
-# Marketing Uplift Modeling & A/B Test Optimization
+# Marketing Campaign Analysis using Uplift Modeling & A/B Testing
 
 **Objective:**  
 Evaluate the effectiveness of a marketing campaign using A/B testing and uplift modeling techniques. Quantify the impact of ads on user conversion and identify persuadable customers for optimized targeting.
